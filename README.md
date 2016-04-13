@@ -18,6 +18,7 @@ Getting and Cleaning Data Course Project
 * group the dataset by subject and ativity and tally the average
 
 #### List of variable ####
+
  subject 
  activity 
  tBodyAcc-mean()-X 
